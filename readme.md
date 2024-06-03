@@ -20,7 +20,7 @@ The app uses a variety of Jetpack Compose widgets to achieve popular UI function
 
 ## Video
 
-<video src='/video/example.mp4' width=180></video>
+![Output sample](/video/example.gif)
 
 ## Contributing
 
